@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaffSyncService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+458d51d6000cf1eca8d3300352d16743afeac62e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaffSyncService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaffSyncService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
