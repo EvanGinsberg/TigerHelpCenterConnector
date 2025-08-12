@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CoPilotAgentFiles/copilot-chat/dbbd9036/sessions/34901064-5dcd-4a3d-bcb2-3e1b32a83f6d
+/.vs/CoPilotAgentFiles/copilot-chat/dbbd9036/sessions/bd8254c0-0177-4c3f-81bf-2f7d0380981c
+/.vs/CoPilotAgentFiles/CopilotIndices/17.13.449.12402/CodeChunks.db-shm
+/.vs/CoPilotAgentFiles/CopilotIndices/17.13.449.12402/CodeChunks.db-wal
+/.vs/CoPilotAgentFiles/CopilotIndices/17.13.449.12402/SemanticSymbols.db-shm
+/.vs/CoPilotAgentFiles/CopilotIndices/17.13.449.12402/SemanticSymbols.db-wal
+/.vs/CoPilotAgentFiles/DesignTimeBuild/.dtbcache.v2
+/.vs/CoPilotAgentFiles/FileContentIndex/1c69acd4-b88e-49f2-91f2-6e8a930cd7d9.vsidx
+/.vs/CoPilotAgentFiles/FileContentIndex/28273f6f-66a4-48a3-936b-fdadfffda214.vsidx
+/.vs/CoPilotAgentFiles/FileContentIndex/90a6d5af-6d7e-43fb-bfb9-ae97fc0bcc59.vsidx
+/.vs/CoPilotAgentFiles/FileContentIndex/f02e77ba-d125-4f50-8395-56ef41743b8a.vsidx
+/HangfireServices/bin/Debug/net9.0
+/HangfireServices/obj
+/StaffSyncService/obj/Debug/net9.0
+/StaffSyncService/obj/project.assets.json
+/StaffSyncService/obj/project.nuget.cache
+/StaffSyncService/obj/StaffSyncService.csproj.nuget.dgspec.json
+/StaffSyncService/obj/StaffSyncService.csproj.nuget.g.props
